@@ -1,4 +1,4 @@
-package orgs.androidtown.bicycle;
+package orgs.androidtown.bicycle.model;
 
 /**
  * Created by Jisang on 2017-10-17.
